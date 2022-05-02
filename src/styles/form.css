@@ -1,0 +1,11 @@
+form{
+    text-align: center;
+    border: 3px solid rgb(0, 0, 0);
+    border-radius: 5px;
+    margin-top:30PX ;
+    padding: 30px;
+    box-shadow: 10px 10px 5px 0px rgba(155, 135, 113, 0.75);
+}
+h1{
+    text-align: center;
+}
